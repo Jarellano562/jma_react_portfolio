@@ -44,6 +44,12 @@ h1 {
   font-weight: bold;
 }
 
+#selfie {
+  border-radius: 150px;
+  vertical-align: middle;
+  border-style: none;
+}
+
 #header {
   display: flex;
   margin-left: 5px;
