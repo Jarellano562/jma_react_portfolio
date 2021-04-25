@@ -13,7 +13,14 @@ function Portfolio() {
     return (
         <section>
             <div className="project">
-                <h1 className="title">Development Portfolio: Jesus</h1>
+                <img src="https://img.icons8.com/dusk/64/000000/development-skill.png" />
+                
+                <img src="https://img.icons8.com/dusk/64/000000/computer.png" />
+                
+                <img src="https://img.icons8.com/dusk/64/000000/development-skill.png" />
+
+                <h1 className="title">Development Portfolio</h1>
+                
                 <hr></hr>
             </div>
 

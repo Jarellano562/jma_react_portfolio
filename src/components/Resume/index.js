@@ -4,7 +4,7 @@ function Resume() {
 
     return (
         <section class="mb-5">
-            <h1 className="resume">RESUME: Jesus</h1>
+            <h1 className="resume">Résumé </h1>
             <hr></hr>
             <div class="row justify-content-center" id="resume">
                 <div class="mt-5 pl-5 pr-5">
@@ -19,7 +19,7 @@ function Resume() {
                             <img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="JMA LinkedIn" /></a>
                     </p>
                     <p>
-                        Download my full <a href="https://github.com/Jarellano562/jma_react_portfolio/blob/main/src/assets/images/Jesse%20M%20Arellano%20Resume%202021.pdf" class="link">resume</a>
+                        Download my full <a href="https://raw.githubusercontent.com/Jarellano562/jma_react_portfolio/main/src/assets/images/Jesse%20M%20Arellano%20Resume%202021.pdf" class="link">Résumé</a>
                         <br></br>
                     </p>
                 </div>

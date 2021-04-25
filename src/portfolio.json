@@ -2,7 +2,15 @@
     {
         "id": 1,
         "name": "MAILFLYER",
-        "image": "https://github.com/Jarellano562/jma_react_portfolio/tree/main/src/assets/images/mailflyer.png",
+        "image": "https://raw.githubusercontent.com/Jarellano562/jma_react_portfolio/main/src/assets/images/mailflyer.png",
+        "github": "https://github.com/haydenkd/MailFlyer/tree/main",
+        "deploy": "https://mailflyer.herokuapp.com/",
+        "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
+    },
+    {
+        "id": 2,
+        "name": "MAILFLYER",
+        "image": "https://raw.githubusercontent.com/Jarellano562/jma_react_portfolio/main/src/assets/images/mailflyer.png",
         "github": "https://github.com/haydenkd/MailFlyer/tree/main",
         "deploy": "https://mailflyer.herokuapp.com/",
         "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
