@@ -19,7 +19,7 @@ function Resume() {
                             <img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="JMA LinkedIn" /></a>
                     </p>
                     <p>
-                        Download my full <a href="https://github.com/Jarellano562/jma_react_portfolio/tree/main/src/assets/images/Jesse_M_Arellano_Resume_2021.pdf" class="link">resume</a>
+                        Download my full <a href="https://github.com/Jarellano562/jma_react_portfolio/blob/main/src/assets/images/Jesse%20M%20Arellano%20Resume%202021.pdf" class="link">resume</a>
                         <br></br>
                     </p>
                 </div>
