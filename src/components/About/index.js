@@ -3,7 +3,7 @@ import React from 'react';
 function About() {
     return (
         <section className="title">
-            <h1 class="name">ABOUT: Jesus M. Arellano III</h1>
+            <h1 class="name">About...</h1>
             <hr></hr>
 
             <div className="row justify-content-center">

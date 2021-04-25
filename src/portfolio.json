@@ -9,11 +9,26 @@
     },
     {
         "id": 2,
-        "name": "MAILFLYER",
-        "image": "https://raw.githubusercontent.com/Jarellano562/jma_react_portfolio/main/src/assets/images/mailflyer.png",
-        "github": "https://github.com/haydenkd/MailFlyer/tree/main",
-        "deploy": "https://mailflyer.herokuapp.com/",
-        "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
+        "name": "NERDBUDGET",
+        "image": "https://raw.githubusercontent.com/Jarellano562/jma_react_portfolio/main/src/assets/images/nerdbudget.png",
+        "github": "https://github.com/Jarellano562/nerdbudget",
+        "deploy": "https://nerdbudget.herokuapp.com/",
+        "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, nodemon, express"
+    },
+    {
+        "id": 3,
+        "name": "TECHNEWS",
+        "image": "https://raw.githubusercontent.com/Jarellano562/jma_react_portfolio/main/src/assets/images/technews.jpeg",
+        "github": "https://github.com/Jarellano562/mvc-tech-blog",
+        "deploy": "https://github.com/Jarellano562/mvc-tech-blog",
+        "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
+    },
+    {
+        "id": 4,
+        "name": "TECHNEWS",
+        "image": "https://raw.githubusercontent.com/Jarellano562/jma_react_portfolio/main/src/assets/images/orgtracker.png",
+        "github": "https://github.com/Jarellano562/org-tracker",
+        "deploy": "https://github.com/Jarellano562/org-tracker",
+        "topics": "MySql2, Inquirer, chalk, console.table, figlet, promise-mysql"
     }
-    
 ]
