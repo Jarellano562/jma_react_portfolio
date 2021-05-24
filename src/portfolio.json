@@ -25,10 +25,19 @@
     },
     {
         "id": 4,
-        "name": "TECHNEWS",
+        "name": "ORG TRACKER",
         "image": "https://raw.githubusercontent.com/Jarellano562/jma_react_portfolio/main/src/assets/images/orgtracker.png",
         "github": "https://github.com/Jarellano562/org-tracker",
         "deploy": "https://github.com/Jarellano562/org-tracker",
         "topics": "MySql2, Inquirer, chalk, console.table, figlet, promise-mysql"
+    },
+    {
+        "id": 5,
+        "name": "AVERAGE JOE FITNESS",
+        "image": "https://raw.githubusercontent.com/Jarellano562/jma_react_portfolio/main/src/assets/images/project3.png",
+        "github": "https://github.com/patrickmklee/AverageJoeFitness",
+        "deploy": "https://mysterious-crag-12899.herokuapp.com/",
+        "topics": " MongoDB, Express, React, Node, Mongoose, GraphQL, Materialize"
     }
+
 ]
